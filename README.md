@@ -1,9 +1,9 @@
 # NoTicket
 A smart platform to help last-minute train ticket seekers connect with those looking to cancel their bookings — enabling secure, verified, and seamless ownership transfers.
 
-# 🚆 TrainConnect - Smart Last-Minute Ticket Transfer Platform
+# 🚆 NoTicket - Smart Last-Minute Ticket Transfer Platform
 
-TrainConnect is a full-stack platform built to help people who need train tickets at the last moment connect with those who are planning to cancel theirs. Through a secure and user-verified system, ownership of train tickets can be transferred with ease, saving time, money, and stress for both parties.
+NoTicket is a full-stack platform built to help people who need train tickets at the last moment connect with those who are planning to cancel theirs. Through a secure and user-verified system, ownership of train tickets can be transferred with ease, saving time, money, and stress for both parties.
 
 ---
 
@@ -49,4 +49,4 @@ TrainConnect is a full-stack platform built to help people who need train ticket
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/trainconnect.git
+   git clone https://github.com/yourusername/NoTicket.git
